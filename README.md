@@ -107,18 +107,3 @@ I build modern, scalable web applications and creative digital experiences.
 📧 Email: salekmasudparvez@gmail.com  
 
 ---
-
-## 🔖 Tags
-
-`International Workers Day` `May Day 2026` `Labor Rights` `Workers Appreciation` `Parvez.dev` `MERN Developer` `Bangladesh Developer`
-
----
-
-## 📌 Meta Information
-
-**Title:** International Workers’ Day 2026 – Honoring the Strength of Workers  
-**Meta Title:** International Workers’ Day 2026 | Salek Masud Parvez | Parvez.dev  
-**Meta Description:** Marking International Workers’ Day 2026, this post honors the strength, dedication, and contributions of workers worldwide. Created by Salek Masud Parvez.  
-**Slug:** /international-workers-day-2026  
-
----
